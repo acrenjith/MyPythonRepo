@@ -1,1 +1,56 @@
-Test
+
+Country,
+Other	Total
+Cases	New
+Cases	Total
+Deaths	New
+Deaths	Total
+Recovered	Active
+Cases	Serious,
+Critical	Tot Cases/
+1M pop
+China	81,171	+78	3,277	+7	73,159	4,735	1,573	56
+Italy	63,927		6,077		7,432	50,418	3,204	1,057
+USA	46,145	+2,411	582	+29	295	45,268	1,040	139
+Spain	35,136		2,311		3,355	29,470	2,355	751
+Germany	29,056		123		453	28,480	23	347
+Iran	23,049		1,812		8,376	12,861		274
+France	19,856		860		2,200	16,796	2,082	304
+S. Korea	9,037	+76	120	+9	3,507	5,410	59	176
+Switzerland	8,795		120		131	8,544	141	1,016
+UK	6,650		335		135	6,180	20	98
+Netherlands	4,749		213		2	4,534	435	277
+Austria	4,474		21		9	4,444	14	497
+Belgium	3,743		88		401	3,254	322	323
+Norway	2,625		10		6	2,609	41	484
+Canada	2,091		24		320	1,747	1	55
+Portugal	2,060		23		14	2,023	47	202
+Sweden	2,046		27		16	2,003	104	203
+Australia	1,973	+86	8	+1	118	1,847	11	77
+Brazil	1,924		34		2	1,888	18	9
+Turkey	1,529		37			1,492		18
+Malaysia	1,518		14		159	1,345	57	47
+Denmark	1,460		24		1	1,435	55	252
+Israel	1,442		1		41	1,400	29	167
+Czechia	1,236		1		7	1,228	19	115
+Japan	1,128		42		235	851	49	9
+Ireland	1,125		6		5	1,114	29	228
+Ecuador	981		18		3	960	2	56
+Luxembourg	875		8		6	861	3	1,398
+Pakistan	875		6		13	856		4
+Thailand	827	+106	4	+3	52	771	7	12
+Poland	749		8		13	728	3	20
+Chile	746		2		11	733	7	39
+Diamond Princess	712		8		567	137	15	
+Finland	700		1		10	689	13	126
+Greece	695		17		29	649	35	67
+Iceland	588		1		51	536	14	1,723
+Indonesia	579		49		30	500		2
+Romania	576		7		73	496	15	30
+Saudi Arabia	562				19	543		16
+India	511	+12	10		37	464		0.4
+Singapore	509		2		152	355	14	87
+Philippines	501	+39	33		19	449	1	5
+Qatar	501				33	468	6	174
+Slovenia	442		3			439	12	213
+Russia	438		1		17	420		
